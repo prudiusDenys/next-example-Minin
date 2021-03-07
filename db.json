@@ -1,0 +1,10 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "body": "lorem lorem lorem" },
+    { "id": 2, "title": "some comment", "body": "James" },
+    { "id": 3, "title": "some comment", "body": "Hea" }
+  ],
+  "about": {
+    "title": "Страница про нас"
+  }
+}
